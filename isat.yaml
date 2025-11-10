@@ -1,0 +1,25 @@
+contour_mode: max_only
+label:
+- color: '#00ff00'
+  name: pedestrian
+- color: '#aa0000'
+  name: people
+- color: '#ffaaff'
+  name: bicycle
+- color: '#aaff00'
+  name: car
+- color: '#ffff00'
+  name: van
+- color: '#55aaff'
+  name: truck
+- color: '#ff557f'
+  name: tricycle
+- color: '#0055ff'
+  name: awning-tricycle
+- color: '#00aa7f'
+  name: bus
+- color: '#ffaa00'
+  name: motor
+language: zh
+mask_alpha: 0.5
+vertex_size: 2

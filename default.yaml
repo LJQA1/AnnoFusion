@@ -1,0 +1,19 @@
+contour_mode: all
+label:
+- color: '#ef2929'
+  name: RongShu
+- color: '#fcaf3e'
+  name: LuanShu
+- color: '#fce94f'
+  name: MuMian
+- color: '#8ae234'
+  name: YangTijia
+- color: '#729fcf'
+  name: Shuisha
+- color: '#ad7fa8'
+  name: ZongLvShu
+- color: '#ef2929'
+  name: default
+language: zh
+mask_alpha: 0.4
+vertex_size: 2

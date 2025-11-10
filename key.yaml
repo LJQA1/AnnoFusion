@@ -1,0 +1,39 @@
+contour_mode: max_only
+label:
+- color: '#00ff00'
+  name: left_eye
+- color: '#000000'
+  name: right_eye
+- color: '#ff0001'
+  name: left_ear
+- color: '#0f0a01'
+  name: right_ear
+- color: '#c0f001'
+  name: left_shoulder
+- color: '#0e0501'
+  name: right_shoulder
+- color: '#0c0b01'
+  name: left_elbow
+- color: '#300f01'
+  name: right_elbow
+- color: '#0e0401'
+  name: left_wrist
+- color: '#a09001'
+  name: right_wrist
+- color: '#008f01'
+  name: left_hip
+- color: '#f40a01'
+  name: right_hip
+- color: '#7bf001'
+  name: left_knee
+- color: '#00f6a1'
+  name: right_knee
+- color: '#03dd01'
+  name: left_ankle
+- color: '#0dda01'
+  name: right_ankle
+- color: '#aaaa7f'
+  name: nose
+language: zh
+mask_alpha: 0.3
+vertex_size: 10
