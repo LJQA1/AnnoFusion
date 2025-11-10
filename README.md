@@ -17,3 +17,10 @@ pip install -r requirements.txt
 train：
 python train.py
 
+Instructions for use：
+##  Instructions for use：
+
+First, you need to select the task, and at this point, you can simply choose the corresponding weight file.
+The weight for the semantic segmentation task is best.th; the weight for the object detection and keypoint recognition tasks is selected from yolo.pt.
+I hope these have helped you.
+
